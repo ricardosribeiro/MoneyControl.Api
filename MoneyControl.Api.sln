@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - MoneyControl.Api", "1 - MoneyControl.Api", "{C223E51A-174F-47C7-85E3-D10F78FBC198}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - MoneyControl.Domain", "2 - MoneyControl.Domain", "{765EBFA2-54EF-42DF-8135-6588DDEED644}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - MoneyControl.Data", "3 - MoneyControl.Data", "{9F9542F4-D589-478B-A600-40BA0DB791C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyControl.Api", "MoneyControl.Api\MoneyControl.Api.csproj", "{603FFFAD-6838-48F8-AA86-09CF83962B6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyControl.Domain", "MoneyControl.Domain\MoneyControl.Domain.csproj", "{A1F12473-9882-43E7-BF66-358765DE6D0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyControl.Data", "MoneyControl.Data\MoneyControl.Data.csproj", "{1574A0D8-1382-44EF-8D20-22A949C6A85F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{603FFFAD-6838-48F8-AA86-09CF83962B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603FFFAD-6838-48F8-AA86-09CF83962B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603FFFAD-6838-48F8-AA86-09CF83962B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603FFFAD-6838-48F8-AA86-09CF83962B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F12473-9882-43E7-BF66-358765DE6D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F12473-9882-43E7-BF66-358765DE6D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F12473-9882-43E7-BF66-358765DE6D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F12473-9882-43E7-BF66-358765DE6D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1574A0D8-1382-44EF-8D20-22A949C6A85F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1574A0D8-1382-44EF-8D20-22A949C6A85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1574A0D8-1382-44EF-8D20-22A949C6A85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1574A0D8-1382-44EF-8D20-22A949C6A85F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{603FFFAD-6838-48F8-AA86-09CF83962B6C} = {C223E51A-174F-47C7-85E3-D10F78FBC198}
+		{A1F12473-9882-43E7-BF66-358765DE6D0D} = {765EBFA2-54EF-42DF-8135-6588DDEED644}
+		{1574A0D8-1382-44EF-8D20-22A949C6A85F} = {9F9542F4-D589-478B-A600-40BA0DB791C0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E452E27-BBC8-4FD3-9CBE-F17178CC43BA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+C:\Labs\Core\MoneyControl.Api\MoneyControl.Data\bin\Debug\netcoreapp3.1\MoneyControl.Domain.dll
+C:\Labs\Core\MoneyControl.Api\MoneyControl.Data\obj\Debug\netcoreapp3.1\MoneyControl.Data.csprojAssemblyReference.cache
+C:\Labs\Core\MoneyControl.Api\MoneyControl.Data\obj\Debug\netcoreapp3.1\MoneyControl.Data.AssemblyInfoInputs.cache
+C:\Labs\Core\MoneyControl.Api\MoneyControl.Data\obj\Debug\netcoreapp3.1\MoneyControl.Data.AssemblyInfo.cs
